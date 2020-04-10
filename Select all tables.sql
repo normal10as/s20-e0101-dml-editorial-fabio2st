@@ -1,3 +1,7 @@
+/* mirando las tablas */
+use editorial
+go
+
 SELECT * FROM almacenes
 
 SELECT * FROM autores
